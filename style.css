@@ -1,0 +1,154 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">);
+
+.help-part-1 {
+    background-image: url(images/assunna4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    height: 700px;
+    width: 100%;
+    font-weight: 300px;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0;
+    color: white;
+}
+
+#donate-button-1 {
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10px;
+}
+
+.help-part-2 {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+ul li {
+    display: inline-block;
+    background-color: beige;
+    font-size: 50px;
+    margin: 30px 30px;
+    padding: 30px;
+}
+
+#dolar-sing {
+    color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#donate-button-2 {
+    padding: 10px 40px;
+
+    color: white;
+    text-decoration: none;
+    background-color: rgb(233, 79, 23);
+    border-radius: 10px;
+
+}
+
+.help-part-3 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.our-activities-one {
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.financial-aid {
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    height: 300px;
+    background-color: bisque;
+    font-size: 20px;
+}
+
+.icons {
+    padding: 50px 20px;
+    background-color: blue;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+.our-activities-two {
+    display: flex;
+    margin-top: 100px;
+}
+
+.Relief-distribution {
+    margin: 50px;
+    padding: 40px;
+    font-size: 20px;
+
+}
+
+#Relief {
+    height: 400px;
+    width: 500px;
+}
+
+#Contribute-button {
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10px;
+}
+.conclusion{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.input-type{
+    text-align: center;
+    padding:10px 20px;
+    margin-right: 30px;
+}
+#email-type{
+    width: 40px;
+    height: 20px;
+    padding: 20px 40px;
+    margin-right: 30px;
+    margin-left: 0;
+    font-size: 20px;
+    background-color: aqua;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    color:white;
+    text-align: center;
+    background-color: black;
+   
+}
+.late-man{
+    color: chocolate;
+}
