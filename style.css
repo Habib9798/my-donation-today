@@ -90,6 +90,7 @@ h2 {
 .icons {
     padding: 50px 20px;
     background-color: blue;
+    color: aqua;
 
 }
 
@@ -132,12 +133,10 @@ h2 {
     padding:10px 20px;
     margin-right: 30px;
 }
-#email-type{
+.email-type{
     width: 40px;
     height: 20px;
     padding: 20px 40px;
-    margin-right: 30px;
-    margin-left: 0;
     font-size: 20px;
     background-color: aqua;
 }
